@@ -28,8 +28,11 @@ Explain GNN's applications in security domain with RL
 - [NeurIPS'21] [Towards Multi-Grained Explainability for Graph Neural Networks](http://staff.ustc.edu.cn/~hexn/papers/nips21-explain-gnn.pdf)
 - [NeurIPS'21] [Reinforcement Learning Enhanced Explainer for Graph Neural Networks](https://proceedings.neurips.cc/paper/2021/file/be26abe76fb5c8a4921cf9d3e865b454-Paper.pdf)
 - [NeurIPS'21] [Robust Counterfactual Explanations on Graph Neural Networks](https://arxiv.org/pdf/2107.04086.pdf)
+- [NeurIPS'21] [Learning Theory Can (Sometimes) Explain Generalisation in Graph Neural Networks](https://proceedings.neurips.cc/paper/2021/file/e34376937c784505d9b4fcd980c2f1ce-Paper.pdf)
 - [ICLR'22] [Discovering Invariant Rationales For Graph Neural Networks](https://openreview.net/pdf?id=hGXij5rfiHw)
+- [ICLR'22] [Handling Distribution Shifts on Graphs: An Invariance Perspective](https://openreview.net/pdf?id=FQOC5u-1egI)
 - [TPAMI'22] [Reinforced Causal Explainer for Graph Neural Networks](https://arxiv.org/pdf/2204.11028.pdf)
 - [DSN'22] [CFGExplainer: Explaining Graph Neural Network-Based Malware Classification from Control Flow Graphs](http://www.cs.binghamton.edu/~ghyan/papers/dsn22.pdf)
 - [WWW'22] [Learning and Evaluating Graph Neural Network Explanations based on Counterfactual and Factual Reasoning](https://arxiv.org/pdf/2202.08816.pdf)
+- [ICML'22] [Interpretable and Generalizable Graph Learning via Stochastic Attention Mechanism](https://arxiv.org/pdf/2201.12987.pdf)
 
