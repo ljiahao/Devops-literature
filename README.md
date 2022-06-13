@@ -36,3 +36,8 @@ Explain GNN's applications in security domain with RL
 - [WWW'22] [Learning and Evaluating Graph Neural Network Explanations based on Counterfactual and Factual Reasoning](https://arxiv.org/pdf/2202.08816.pdf)
 - [ICML'22] [Interpretable and Generalizable Graph Learning via Stochastic Attention Mechanism](https://arxiv.org/pdf/2201.12987.pdf)
 
+## Security Applications
+### Malware Detection
+- [NDSS'17] [MaMaDroid: Detecting Android Malware by Building Markov Chains of Behavioral Models](https://www.ndss-symposium.org/wp-content/uploads/2017/09/ndss2017_03B-3_Mariconti_paper.pdf)
+- [ASE'19] [MalScan: Fast Market-Wide Mobile Malware Scanning by Social-Network Centrality Analysis](https://wu-yueming.github.io/Files/ASE2019_MalScan.pdf)
+- [CCS'21] [Structural Attack against Graph Based Android Malware Detection](https://www4.comp.polyu.edu.hk/~csxluo/HRAT.pdf)
