@@ -41,3 +41,7 @@ Explain GNN's applications in security domain with RL
 - [NDSS'17] [MaMaDroid: Detecting Android Malware by Building Markov Chains of Behavioral Models](https://www.ndss-symposium.org/wp-content/uploads/2017/09/ndss2017_03B-3_Mariconti_paper.pdf)
 - [ASE'19] [MalScan: Fast Market-Wide Mobile Malware Scanning by Social-Network Centrality Analysis](https://wu-yueming.github.io/Files/ASE2019_MalScan.pdf)
 - [CCS'21] [Structural Attack against Graph Based Android Malware Detection](https://www4.comp.polyu.edu.hk/~csxluo/HRAT.pdf)
+
+### Binary Similarity
+- [CCS'] [Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection](https://acmccs.github.io/papers/p363-xuAemb.pdf)
+- [Security'22] [How Machine Learning Is Solving the Binary Function Similarity Problem](https://www.usenix.org/system/files/sec22fall_marcelli.pdf)
