@@ -43,5 +43,5 @@ Explain GNN's applications in security domain with RL
 - [CCS'21] [Structural Attack against Graph Based Android Malware Detection](https://www4.comp.polyu.edu.hk/~csxluo/HRAT.pdf)
 
 ### Binary Similarity
-- [CCS'] [Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection](https://acmccs.github.io/papers/p363-xuAemb.pdf)
+- [CCS'17] [Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection](https://acmccs.github.io/papers/p363-xuAemb.pdf)
 - [Security'22] [How Machine Learning Is Solving the Binary Function Similarity Problem](https://www.usenix.org/system/files/sec22fall_marcelli.pdf)
