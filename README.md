@@ -44,4 +44,5 @@ Explain GNN's applications in security domain with RL
 
 ### Binary Similarity
 - [CCS'17] [Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection](https://acmccs.github.io/papers/p363-xuAemb.pdf)
+- [ICML'19] [Graph Matching Networks for Learning the Similarity of Graph Structured Objects](http://proceedings.mlr.press/v97/li19d/li19d.pdf)
 - [Security'22] [How Machine Learning Is Solving the Binary Function Similarity Problem](https://www.usenix.org/system/files/sec22fall_marcelli.pdf)
