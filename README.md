@@ -1,18 +1,10 @@
 # Literature Review
 
-Literature highly-related to our research interests (e.g.,application logs, micro-service, and explainability).
+We survey literature highly-related to our research interests.
+Now, we investigate three parts as following:
 
-## application logs
-Related work about application logs.
-You can check detailed information via visiting [this link](./application-logs.md)
+- [Application Logs](./application-logs.md)
+- [Microservices/Serverless](./micro-services.md)
+- [Security Explainability](./sec-explainability.md)
 
-
-## Micro-services / Serverless
-
-Related work about microservice/serverless.
-You can check detailed information through visiting [this link](./micro-services.md).
-
-## Security-Explainability
-
-Related work about explainability for graph-based AI approaches for security.
-You can check detailed information through visiting [this link](./sec-explainability.md).
+_Note: there exist some overlap papers among different parts._
