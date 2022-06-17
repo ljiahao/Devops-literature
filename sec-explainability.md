@@ -1,5 +1,4 @@
 # Security-Explainability
-Explain GNN's applications in security domain with RL
 
 ## Explainability
 - [ICML'17] [Axiomatic Attribution for Deep Networks](https://arxiv.org/pdf/1703.01365.pdf)
