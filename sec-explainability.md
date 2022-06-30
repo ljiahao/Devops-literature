@@ -1,4 +1,5 @@
 # Security-Explainability
+Explain GNN's applications in security domain with RL
 
 ## Explainability
 - [ICML'17] [Axiomatic Attribution for Deep Networks](https://arxiv.org/pdf/1703.01365.pdf)
@@ -45,3 +46,19 @@
 - [CCS'17] [Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection](https://acmccs.github.io/papers/p363-xuAemb.pdf)
 - [ICML'19] [Graph Matching Networks for Learning the Similarity of Graph Structured Objects](http://proceedings.mlr.press/v97/li19d/li19d.pdf)
 - [Security'22] [How Machine Learning Is Solving the Binary Function Similarity Problem](https://www.usenix.org/system/files/sec22fall_marcelli.pdf)
+
+## Concept Drift
+### Survey
+- [CSUR'14] [A survey on concept drift adaptation](https://www.win.tue.nl/~mpechen/publications/pubs/Gama_ACMCS_AdaptationCD_accepted.pdf)
+
+### Detection
+- [ICML'14] [Concept drift detection through resampling](http://proceedings.mlr.press/v32/harel14.pdf)
+- [KDD'16] [Fast Unsupervised Online Drift Detection Using Incremental Kolmogorov-Smirnov Test](https://www.kdd.org/kdd2016/papers/files/rpp0427-dos-reisA.pdf)
+- [ICLR'17] [A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks](https://arxiv.org/pdf/1610.02136.pdf)
+- [Security'17] [Transcend: Detecting Concept Drift in Malware Classification Models](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-jordaney.pdf)
+- [Security'21] [CADE: Detecting and Explaining Concept Drift Samples for Security Applications](http://www.personal.psu.edu/wzg13/publications/usenix21_2.pdf)
+
+### Prevention
+- [Security'19] [TESSERACT: Eliminating Experimental Bias in Malware Classification across Space and Time](https://www.usenix.org/system/files/sec19-pendlebury.pdf)
+- [SP'20] [Throwing Darts in the Dark? Detecting Bots with Limited Data using Neural Data Augmentation](https://gangw.cs.illinois.edu/sp20-odds.pdf)
+- [CCS'20] [Enhancing State-of-the-art Classifiers with API Semantics to Detect Evolved Android Malware](https://dl.acm.org/doi/pdf/10.1145/3372297.3417291)
