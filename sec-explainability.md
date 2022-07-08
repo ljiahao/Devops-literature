@@ -40,6 +40,8 @@
 - [NDSS'17] [MaMaDroid: Detecting Android Malware by Building Markov Chains of Behavioral Models](https://www.ndss-symposium.org/wp-content/uploads/2017/09/ndss2017_03B-3_Mariconti_paper.pdf)
 - [ASE'19] [MalScan: Fast Market-Wide Mobile Malware Scanning by Social-Network Centrality Analysis](https://wu-yueming.github.io/Files/ASE2019_MalScan.pdf)
 - [CCS'21] [Structural Attack against Graph Based Android Malware Detection](https://www4.comp.polyu.edu.hk/~csxluo/HRAT.pdf)
+- [INFOCOM'22] [MalGraph: Hierarchical Graph Neural Networks for Robust Windows Malware Detection](https://nesa.zju.edu.cn/download/lx_pdf_malgraph.pdf)
+- [TDSC'22] [MsDroid: Identifying Malicious Snippets for Android Malware Detection](https://ieeexplore.ieee.org/document/9762803)
 
 ### Binary Similarity
 - [CCS'17] [Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection](https://acmccs.github.io/papers/p363-xuAemb.pdf)
@@ -56,6 +58,7 @@
 - [ICLR'17] [A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks](https://arxiv.org/pdf/1610.02136.pdf)
 - [Security'17] [Transcend: Detecting Concept Drift in Malware Classification Models](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-jordaney.pdf)
 - [Security'21] [CADE: Detecting and Explaining Concept Drift Samples for Security Applications](http://www.personal.psu.edu/wzg13/publications/usenix21_2.pdf)
+- [ASIA CCS'22] [EVOLIoT: A Self-Supervised Contrastive Learning Framework for Detecting and Characterizing Evolving IoT Malware Variants](https://dl.acm.org/doi/pdf/10.1145/3488932.3517393)
 
 ### Prevention
 - [Security'19] [TESSERACT: Eliminating Experimental Bias in Malware Classification across Space and Time](https://www.usenix.org/system/files/sec19-pendlebury.pdf)
