@@ -12,6 +12,7 @@
 - [AAAI'19] [Relative Attributing Propagation: Interpreting the Comparative Contributions of Individual Units in Deep Neural Networks](https://arxiv.org/pdf/1904.00605.pdf)
 - [ICML'19] [Explaining Deep Neural Networks with a Polynomial Time Algorithm for Shapley Values Approximation](https://arxiv.org/pdf/1903.10992.pdf)
 - [ARXIV'19] [Don’t Paint It Black: White-Box Explanations for Deep Learning in Computer Security](https://intellisec.de/pubs/2019-paint.pdf)
+- [ARXIV'19] [Invariant Risk Minimization](https://arxiv.org/pdf/1907.02893.pdf)
 - [EuroS&P'20] [Evaluating Explanation Methods for Deep Learning in Security](https://arxiv.org/pdf/1906.02108.pdf)
 - [ESEC/FSE'20] [DENAS: Automated Rule Generation by Knowledge Extraction from Neural Networks](http://youngwei.com/pdf/DENAS.pdf)
 - [ICML'20] [Fairwashing Explanations with Off-Manifold Detergent](https://arxiv.org/pdf/2007.09969.pdf)
