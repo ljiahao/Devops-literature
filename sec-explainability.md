@@ -38,11 +38,18 @@
 
 ## Security Applications
 ### Malware Detection
+- [Security'16] [Optimized Invariant Representation of Network Traffic for Detecting Unseen Malware Variants](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_bartos.pdf)
 - [NDSS'17] [MaMaDroid: Detecting Android Malware by Building Markov Chains of Behavioral Models](https://www.ndss-symposium.org/wp-content/uploads/2017/09/ndss2017_03B-3_Mariconti_paper.pdf)
+- [ACSAC'18] [Improving Accuracy of Android Malware Detection with Lightweight Contextual Awareness](https://jallen89.github.io/pdfs/pikadroid-paper.pdf)
+<!-- - [NIPS'18] [Unknown Family Detection Based on Family-Invariant Representation](https://secml2018.github.io/shibahara_unknown_family_detection.pdf) -->
 - [ASE'19] [MalScan: Fast Market-Wide Mobile Malware Scanning by Social-Network Centrality Analysis](https://wu-yueming.github.io/Files/ASE2019_MalScan.pdf)
+- [EuroS&P'19] [DroidEvolver: Self-Evolving Android Malware Detection System](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8806731)
+- [TOSEM'20] [Assessing and Improving Malware Detection Sustainability through App Evolution Studies](https://dl.acm.org/doi/pdf/10.1145/3371924)
 - [CCS'21] [Structural Attack against Graph Based Android Malware Detection](https://www4.comp.polyu.edu.hk/~csxluo/HRAT.pdf)
 - [INFOCOM'22] [MalGraph: Hierarchical Graph Neural Networks for Robust Windows Malware Detection](https://nesa.zju.edu.cn/download/lx_pdf_malgraph.pdf)
+- [TDSC'22] [Eight Years of Rider Measurement in the Android Malware Ecosystem](https://arxiv.org/pdf/1801.08115.pdf)
 - [TDSC'22] [MsDroid: Identifying Malicious Snippets for Android Malware Detection](https://ieeexplore.ieee.org/document/9762803)
+
 
 ### Binary Similarity
 - [CCS'17] [Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection](https://acmccs.github.io/papers/p363-xuAemb.pdf)
