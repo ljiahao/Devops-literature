@@ -38,10 +38,10 @@
 
 ## Security Applications
 ### Malware Detection
+- [Android Malware Category] [Understanding Android Malware Families (UAMF) – The Foundations](https://www.itworldcanada.com/blog/understanding-android-malware-families-uamf-the-foundations-article-1/441562)
 - [Security'16] [Optimized Invariant Representation of Network Traffic for Detecting Unseen Malware Variants](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_bartos.pdf)
 - [NDSS'17] [MaMaDroid: Detecting Android Malware by Building Markov Chains of Behavioral Models](https://www.ndss-symposium.org/wp-content/uploads/2017/09/ndss2017_03B-3_Mariconti_paper.pdf)
 - [ACSAC'18] [Improving Accuracy of Android Malware Detection with Lightweight Contextual Awareness](https://jallen89.github.io/pdfs/pikadroid-paper.pdf)
-<!-- - [NIPS'18] [Unknown Family Detection Based on Family-Invariant Representation](https://secml2018.github.io/shibahara_unknown_family_detection.pdf) -->
 - [ASE'19] [MalScan: Fast Market-Wide Mobile Malware Scanning by Social-Network Centrality Analysis](https://wu-yueming.github.io/Files/ASE2019_MalScan.pdf)
 - [EuroS&P'19] [DroidEvolver: Self-Evolving Android Malware Detection System](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8806731)
 - [TOSEM'20] [Assessing and Improving Malware Detection Sustainability through App Evolution Studies](https://dl.acm.org/doi/pdf/10.1145/3371924)
