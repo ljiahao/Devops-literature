@@ -35,6 +35,7 @@
 - [DSN'22] [CFGExplainer: Explaining Graph Neural Network-Based Malware Classification from Control Flow Graphs](http://www.cs.binghamton.edu/~ghyan/papers/dsn22.pdf)
 - [WWW'22] [Learning and Evaluating Graph Neural Network Explanations based on Counterfactual and Factual Reasoning](https://arxiv.org/pdf/2202.08816.pdf)
 - [ICML'22] [Interpretable and Generalizable Graph Learning via Stochastic Attention Mechanism](https://arxiv.org/pdf/2201.12987.pdf)
+- [KDD'22] [Graph Rationalization with Environment-based Augmentations](https://arxiv.org/pdf/2206.02886.pdf)
 
 ## Security Applications
 ### Malware Detection
