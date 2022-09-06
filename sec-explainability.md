@@ -50,6 +50,7 @@
 - [INFOCOM'22] [MalGraph: Hierarchical Graph Neural Networks for Robust Windows Malware Detection](https://nesa.zju.edu.cn/download/lx_pdf_malgraph.pdf)
 - [TDSC'22] [Eight Years of Rider Measurement in the Android Malware Ecosystem](https://arxiv.org/pdf/1801.08115.pdf)
 - [TDSC'22] [MsDroid: Identifying Malicious Snippets for Android Malware Detection](https://ieeexplore.ieee.org/document/9762803)
+- [TDSC'22] [Semantics-preserving Reinforcement Learning Attack Against Graph Neural Networks for Malware Detection](https://arxiv.org/pdf/2009.05602.pdf)
 
 
 ### Binary Similarity
