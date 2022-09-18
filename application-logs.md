@@ -12,6 +12,7 @@
 - [ESEC/FSE'18] [Predicting node failure in cloud service systems.](http://hongyujohn.github.io/NodeFailures.pdf) Q.Lin et al. FSE 2018
 - [CCS'19] [Log2vec: A heterogeneous graph embedding based approach for detecting cyber threats within enterprise.](https://dl.acm.org/doi/pdf/10.1145/3319535.3363224)
 - [ESEC/FSE'19][Robust log-based anomaly detection on unstable log data.](https://dl.acm.org/doi/pdf/10.1145/3338906.3338931)
+- [ICSE'22] [Log-based Anomaly Detection with Deep Learning: How Far Are We?](https://arxiv.org/pdf/2202.04301.pdf)
 
 ## Log Generation
 - [OSDI'12] [Be conservative: Enhancing failure diagnosis with proactive logging](http://opera.ucsd.edu/paper/osdi12-errlog.pdf)
@@ -27,6 +28,7 @@
 - [ASE'20] [Where Shall We Log? Studying and Suggesting Logging Locations in Code Blocks](https://petertsehsun.github.io/publication/ase2020/)
 - [ICSE'21] [DeepLV: Suggesting Log Levels Using Ordinal Based Neural Networks](https://users.encs.concordia.ca/~shang/pubs/Zhenhao2021ICSE.pdf)
 - [ISSTA'22] [TeLL:Log Level Suggestions via Modeling Multi-level Code Block Information](https://jun-zeng.github.io/file/tell_paper.pdf)
+- [ICSE'22] [Using Deep Learning to Generate Complete Log Statements](https://arxiv.org/pdf/2201.04837.pdf)
 
 ## Log Compression
 - [CCGrid'15] [Cowic: A column-wise independent compression for log stream analysis.](https://dl.acm.org/doi/pdf/10.1109/CCGrid.2015.45) H. Lin et al. CCGrid 2015
@@ -36,3 +38,4 @@
 
 ## Log Parsing
 - [TDSC'18] [Towards Automated Log Parsing for Large-Scale Log Data Analysis.](https://pinjiahe.github.io/papers/TDSC17.pdf)
+- [ICSE'22] [Guidelines for Assessing the Accuracy of Log Message Template Identification Techniques](https://orbilu.uni.lu/bitstream/10993/50072/1/icse2022.pdf)
