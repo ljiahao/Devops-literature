@@ -9,7 +9,7 @@
 - [CCS'17] [DeepLog: Anomaly detection and diagnosis from system logs through deep learning.](https://www.cs.utah.edu/~lifeifei/papers/deeplog.pdf)
 - [ESEC/FSE'18] [Using finite-state models for log differencing.](https://dl.acm.org/doi/pdf/10.1145/3236024.3236069)
 - [ESEC/FSE'18] [Identifying impactful service system problems via log analysis.](https://dl.acm.org/doi/pdf/10.1145/3236024.3236083)
-- [ESEC/FSE'18] [Predicting node failure in cloud service systems.](http://hongyujohn.github.io/NodeFailures.pdf) Q.Lin et al. FSE 2018
+- [ESEC/FSE'18] [Predicting node failure in cloud service systems.](http://hongyujohn.github.io/NodeFailures.pdf)
 - [CCS'19] [Log2vec: A heterogeneous graph embedding based approach for detecting cyber threats within enterprise.](https://dl.acm.org/doi/pdf/10.1145/3319535.3363224)
 - [ESEC/FSE'19][Robust log-based anomaly detection on unstable log data.](https://dl.acm.org/doi/pdf/10.1145/3338906.3338931)
 - [ICSE'22] [Log-based Anomaly Detection with Deep Learning: How Far Are We?](https://arxiv.org/pdf/2202.04301.pdf)
@@ -31,10 +31,10 @@
 - [ICSE'22] [Using Deep Learning to Generate Complete Log Statements](https://arxiv.org/pdf/2201.04837.pdf)
 
 ## Log Compression
-- [CCGrid'15] [Cowic: A column-wise independent compression for log stream analysis.](https://dl.acm.org/doi/pdf/10.1109/CCGrid.2015.45) H. Lin et al. CCGrid 2015
-- [SIGMOD'17] [Distributed provenance compression.](https://dl.acm.org/doi/pdf/10.1145/3035918.3035926) C. Chen et al. SIGMOD 2017
-- [ASE'19] [Logzip: Extracting hidden structures via iterative clustering for log compression.](https://arxiv.org/pdf/1910.00409.pdf) J. Liu et al. ASE 2019
-- [APSys'20] [HDRF : Hadoop Data Reduction Framework for Hadoop Distributed File System.](https://dl.acm.org/doi/pdf/10.1145/3409963.3410500) N. Ryan et al. APSys 2020
+- [CCGrid'15] [Cowic: A column-wise independent compression for log stream analysis.](https://dl.acm.org/doi/pdf/10.1109/CCGrid.2015.45)
+- [SIGMOD'17] [Distributed provenance compression.](https://dl.acm.org/doi/pdf/10.1145/3035918.3035926)
+- [ASE'19] [Logzip: Extracting hidden structures via iterative clustering for log compression.](https://arxiv.org/pdf/1910.00409.pdf)
+- [APSys'20] [HDRF : Hadoop Data Reduction Framework for Hadoop Distributed File System.](https://dl.acm.org/doi/pdf/10.1145/3409963.3410500)
 
 ## Log Parsing
 - [TDSC'18] [Towards Automated Log Parsing for Large-Scale Log Data Analysis.](https://pinjiahe.github.io/papers/TDSC17.pdf)
