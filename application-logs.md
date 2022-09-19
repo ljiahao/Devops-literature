@@ -12,6 +12,7 @@
 - [ESEC/FSE'18] [Predicting node failure in cloud service systems.](http://hongyujohn.github.io/NodeFailures.pdf)
 - [CCS'19] [Log2vec: A heterogeneous graph embedding based approach for detecting cyber threats within enterprise.](https://dl.acm.org/doi/pdf/10.1145/3319535.3363224)
 - [ESEC/FSE'19][Robust log-based anomaly detection on unstable log data.](https://dl.acm.org/doi/pdf/10.1145/3338906.3338931)
+- [ASE'21] [Log-based Anomaly Detection Without Log Parsing](https://arxiv.org/pdf/2108.01955.pdf)
 - [ICSE'22] [Log-based Anomaly Detection with Deep Learning: How Far Are We?](https://arxiv.org/pdf/2202.04301.pdf)
 
 ## Log Generation
